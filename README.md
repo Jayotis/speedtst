@@ -1,2 +1,2 @@
 # speedtst
-Linux command line internet speed test
+Linux command line internet speed test script.
